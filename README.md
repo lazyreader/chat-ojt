@@ -1,0 +1,2 @@
+# LearnSmartApp
+Dialect Learning App
