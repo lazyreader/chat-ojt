@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: f10d5a0efb26e894298f03f94514e3fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2058946480712109593
+    second: A-Z Alphabet3_0
+  - first:
+      213: 607239337026685566
+    second: A-Z Alphabet3_1
+  - first:
+      213: 8961670394485226001
+    second: A-Z Alphabet3_2
+  - first:
+      213: 6367154406640295422
+    second: A-Z Alphabet3_3
+  - first:
+      213: 8043917554641812743
+    second: A-Z Alphabet3_4
+  - first:
+      213: -4759113912482414655
+    second: A-Z Alphabet3_5
+  - first:
+      213: 6459052020670813802
+    second: A-Z Alphabet3_6
+  - first:
+      213: 5813231501421777943
+    second: A-Z Alphabet3_7
+  - first:
+      213: 9012516005662577482
+    second: A-Z Alphabet3_8
+  - first:
+      213: -5340800014587404537
+    second: A-Z Alphabet3_9
+  - first:
+      213: 6543022683582841988
+    second: A-Z Alphabet3_10
+  - first:
+      213: -8841446331511783259
+    second: A-Z Alphabet3_11
+  - first:
+      213: -5411052623191982319
+    second: A-Z Alphabet3_12
+  - first:
+      213: -488797337368070937
+    second: A-Z Alphabet3_13
+  - first:
+      213: 8396046235362959163
+    second: A-Z Alphabet3_14
+  - first:
+      213: 3119833398619064434
+    second: A-Z Alphabet3_15
+  - first:
+      213: -8630468537615145358
+    second: A-Z Alphabet3_16
+  - first:
+      213: -6875465528435497873
+    second: A-Z Alphabet3_17
+  - first:
+      213: -3300782863094534132
+    second: A-Z Alphabet3_18
+  - first:
+      213: 3071372296588007330
+    second: A-Z Alphabet3_19
+  - first:
+      213: 4434159508272833628
+    second: A-Z Alphabet3_20
+  - first:
+      213: 3586578829287543303
+    second: A-Z Alphabet3_21
+  - first:
+      213: -6662471617401166342
+    second: A-Z Alphabet3_22
+  - first:
+      213: 5125668503734913720
+    second: A-Z Alphabet3_23
+  - first:
+      213: 1189327191801338464
+    second: A-Z Alphabet3_24
+  - first:
+      213: 2527477400439629226
+    second: A-Z Alphabet3_25
+  - first:
+      213: 3120672289121094127
+    second: A-Z Alphabet3_26
+  - first:
+      213: 5025677624139835475
+    second: A-Z Alphabet3_28
+  - first:
+      213: -5920790409909807969
+    second: A-Z Alphabet3_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A-Z Alphabet3_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 536
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fb117611cf9241a24b0f175f8fe90
+      internalID: 2058946480712109593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 538
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ba950441cb47458923c059622c0a9
+      internalID: 607239337026685566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 537
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef700bcdf43ba04dbb52ef63513c704
+      internalID: 8961670394485226001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 538
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecda2c95fe1a2e4d9e0c492ae440548
+      internalID: 6367154406640295422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 538
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113eb8db86dd4e249abb2d42a1807844
+      internalID: 8043917554641812743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 538
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db5c479adf7594ab2f2140670196d5
+      internalID: -4759113912482414655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_6
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 537
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d064b92033b446a654af1e9d5aabb
+      internalID: 6459052020670813802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 536
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84821796884f46b4a92ffa877a48762f
+      internalID: 5813231501421777943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 536
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea85fdf855cefe459ab9d0bf7124bf2
+      internalID: 9012516005662577482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 374
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403c5b2ba3f7da4aa5e8041103a689b
+      internalID: -5340800014587404537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 373
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1825d5ad7cab47a986bb50cfdc295
+      internalID: 6543022683582841988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 375
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209ae6791e507f44ba4022da82cfc36
+      internalID: -8841446331511783259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 373
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85864e615fa6d44a84e85dcdbc4760e
+      internalID: -5411052623191982319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 374
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204798d52f83b848921dbd1ba77dd61
+      internalID: -488797337368070937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 375
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb2fe25e81c5c4983515d9a6d02bcb
+      internalID: 8396046235362959163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 374
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d12b722b311144d8c5db17e153e97d
+      internalID: 3119833398619064434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 368
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a9fe00297f3b4fac414d52d724e51
+      internalID: -8630468537615145358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 374
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33436778b82177d4eab869077f190c02
+      internalID: -6875465528435497873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 222
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e4f556b0368e488854388212102a2
+      internalID: -3300782863094534132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2dec3a43356644195e020ac9d4193e
+      internalID: 3071372296588007330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 221
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47caa248de8887048b42d4585970c8d3
+      internalID: 4434159508272833628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 222
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329471458e96a946a6c8dce636a199b
+      internalID: 3586578829287543303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 222
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1e7c7de63adee4d9ab63929320ebba
+      internalID: -6662471617401166342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_23
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 221
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97dbd2573ac2b34282bfe58a2d66ae6
+      internalID: 5125668503734913720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 222
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c167ec00fee9a04ca7fb2aeaab543a4
+      internalID: 1189327191801338464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_25
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 222
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a6882ef76621419509115809610be
+      internalID: 2527477400439629226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 172
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a947d210791ccc4b8c890f9d4e3b190
+      internalID: 3120672289121094127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 80
+        width: 165
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373b8e2597ee334a86ee4903a044d47
+      internalID: 5025677624139835475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-Z Alphabet3_30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 84
+        width: 144
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65f57867185964d8ad3175504d66e5
+      internalID: -5920790409909807969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
