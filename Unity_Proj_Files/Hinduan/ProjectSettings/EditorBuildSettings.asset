@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/vp.unity
+    guid: ccb1b9fd3ac5b494d94bd6ade88cee43
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 414e0d8ea1d1ba84f9ae05a27f842ecc
+  - enabled: 1
+    path: Assets/Scenes/Numbers Scene.unity
+    guid: a3f7bb077e87d3f46b6aceb7b93f0e8d
+  - enabled: 1
+    path: Assets/Scenes/Numbers/1.unity
+    guid: 4b1ce4e115b0acf449c82ea963859f37
+  - enabled: 1
+    path: Assets/Scenes/Numbers/2.unity
+    guid: a2834b309ab3cf5458c30a49edfbf03f
+  - enabled: 1
+    path: Assets/Scenes/Numbers/3.unity
+    guid: f3b64ee89dda7184b8980e01e0780f66
+  - enabled: 1
+    path: Assets/Scenes/Numbers/4.unity
+    guid: 74c5388a3537aae44bb7258b7cf8328b
+  - enabled: 1
+    path: Assets/Scenes/Numbers/5.unity
+    guid: d629eb12beb56e74e91d818e77e35879
+  - enabled: 1
+    path: Assets/Scenes/Numbers/6.unity
+    guid: 4e26b1c634f18c845ab39c08b3a8fd5a
+  - enabled: 1
+    path: Assets/Scenes/Numbers/7.unity
+    guid: 1fc217f6768a0d2458cb1a27053b3737
+  - enabled: 1
+    path: Assets/Scenes/Numbers/8.unity
+    guid: 6eaec7595e924eb439a508fc4b825ad7
+  - enabled: 1
+    path: Assets/Scenes/Numbers/9.unity
+    guid: d8d6ab9e51c7e394b9970b95bab7c679
+  - enabled: 1
+    path: Assets/Scenes/Numbers/10.unity
+    guid: de407222513d2574f8efb10b7bd86d29
+  - enabled: 1
+    path: Assets/Scenes/Letters Scene.unity
+    guid: 9f7f8001e6899e44cb1cc4e86596fd89
+  - enabled: 1
+    path: Assets/Scenes/Letters/A.unity
+    guid: 2bbf633eab7fb1345960d729bd7a3754
+  - enabled: 1
+    path: Assets/Scenes/Letters/B.unity
+    guid: 5c9368ab1239db045a93b355daa078d3
+  - enabled: 1
+    path: Assets/Scenes/Letters/D.unity
+    guid: 9fc043c2292ea0942a26bd5ad61e78a4
+  - enabled: 1
+    path: Assets/Scenes/Letters/G.unity
+    guid: 370da014e4978f94a91c470c5a6f0ae5
+  - enabled: 1
+    path: Assets/Scenes/Letters/H.unity
+    guid: b68422ff2d97f524c82b6cdc29c4feaf
+  - enabled: 1
+    path: Assets/Scenes/Letters/I.unity
+    guid: bf39dfab20600194a94f0127a7d09c4a
+  - enabled: 1
+    path: Assets/Scenes/Letters/J.unity
+    guid: 0789930fb297cb345aff3bdf035c63ba
+  - enabled: 1
+    path: Assets/Scenes/Letters/K.unity
+    guid: 2cafbf940e9867e4fb898b4e50704b07
+  - enabled: 1
+    path: Assets/Scenes/Letters/L.unity
+    guid: 84e1493fd0b499240b600d7ce71889a7
+  - enabled: 1
+    path: Assets/Scenes/Letters/M.unity
+    guid: df8d75263c77eea4dbecc62ceb7cd194
+  - enabled: 1
+    path: Assets/Scenes/Letters/N.unity
+    guid: d94d6cf9fa7de564e9b5faa14f9f545d
+  - enabled: 1
+    path: Assets/Scenes/Letters/NG.unity
+    guid: c2d346f7bcea4604a8fe86a1f8bc3fdf
+  - enabled: 1
+    path: Assets/Scenes/Letters/NY.unity
+    guid: cbba94e9d117b6445891990ddb571642
+  - enabled: 1
+    path: Assets/Scenes/Letters/P.unity
+    guid: 2ece1c9542e433f4693e24576e94e9bc
+  - enabled: 1
+    path: Assets/Scenes/Letters/S.unity
+    guid: 5598f1238211f374ab28e8f8d700a22a
+  - enabled: 1
+    path: Assets/Scenes/Letters/T.unity
+    guid: c81afea4b1f5e1848beb4168924032e3
+  - enabled: 1
+    path: Assets/Scenes/Letters/U.unity
+    guid: 07ebb66101fccbf4ab8f55f8cd7ed21a
+  - enabled: 1
+    path: Assets/Scenes/Letters/W.unity
+    guid: 8f728b11e83bc1f40813af8c0722550b
+  - enabled: 1
+    path: Assets/Scenes/Letters/Y.unity
+    guid: 124a415369897804e805b165571d035e
+  - enabled: 1
+    path: Assets/Numbers Board/Scenes/NumbersWriting.unity
+    guid: eb37ecedd1e5f4acaa4364533b118a95
+  - enabled: 1
+    path: Assets/Scenes/Stories Scene.unity
+    guid: a565fd22ab9b2db44baa00fa237ad9e2
+  - enabled: 1
+    path: Assets/Scenes/Stories/Story1.unity
+    guid: 979156923b56b204faf27354f25378ee
+  - enabled: 1
+    path: Assets/Scenes/Stories/Story2.unity
+    guid: fd6b7058352948f49a98358487e78d92
+  - enabled: 1
+    path: Assets/Scenes/Stories/Story3.unity
+    guid: 2f9daf9166e62204c9c730806a904ad1
+  - enabled: 1
+    path: Assets/Numbers Board/Scenes/AlphabetWriting.unity
+    guid: df0eb15f6d1a4ee4a9688ad86f71bb87
+  m_configObjects: {}
