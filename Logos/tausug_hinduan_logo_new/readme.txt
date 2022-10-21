@@ -1,0 +1,6 @@
+If you want to edit the logo in "logo_aprende_template.psd", please double-click on the left thumbnail picture of the "entire" layer...
+Thanks for reading...
+
+-Go, John Kenneth,
+ Member, ALP Project for Smart Communications
+ Ateneo de Zamboanga University
