@@ -2082,6 +2082,23 @@ PrefabInstance:
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[12].y
       value: -0.08767772
       objectReference: {fileID: 0}
+    - target: {fileID: 21200030, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 985496ca2b4d4ba47b6c56035e823854,
+        type: 3}
+    - target: {fileID: 1113101553645626151, guid: 3cb9990ab6c2d0c469e7d977af04aaaf,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 985496ca2b4d4ba47b6c56035e823854,
+        type: 3}
+    - target: {fileID: 191860031698527364, guid: 3cb9990ab6c2d0c469e7d977af04aaaf,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 985496ca2b4d4ba47b6c56035e823854,
+        type: 3}
     m_RemovedComponents:
     - {fileID: 5380520267352789602, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
     - {fileID: 2842785798367218544, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
