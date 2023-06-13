@@ -1067,6 +1067,10 @@ PrefabInstance:
       propertyPath: letters.Array.data[15]
       value: 
       objectReference: {fileID: 1656481459}
+    - target: {fileID: 11400290, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
+      propertyPath: cheeringSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 24895f134f696f949a23fcdc2a112848, type: 3}
     - target: {fileID: 6202073768139634208, guid: 3cb9990ab6c2d0c469e7d977af04aaaf,
         type: 3}
       propertyPath: m_IsActive
