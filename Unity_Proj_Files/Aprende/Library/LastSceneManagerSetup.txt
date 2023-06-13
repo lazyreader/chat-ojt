@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Letters/Y.unity
+- path: Assets/Scenes/Letters/O.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
