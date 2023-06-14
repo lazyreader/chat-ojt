@@ -413,6 +413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sources: []
+  instructions: {fileID: 0}
   anEvent:
     m_PersistentCalls:
       m_Calls:
@@ -947,6 +948,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sources: []
+  instructions: {fileID: 0}
   anEvent:
     m_PersistentCalls:
       m_Calls:
@@ -1215,6 +1217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sources: []
+  instructions: {fileID: 0}
   anEvent:
     m_PersistentCalls:
       m_Calls:
@@ -2013,10 +2016,10 @@ PrefabInstance:
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 37a35a9274adc7f4f8af22477067feca, type: 3}
+      objectReference: {fileID: 8300000, guid: 2ab94dad56c3e1c4284fb8035b21f1dc, type: 3}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_Volume
-      value: 0.5
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: BypassListenerEffects
@@ -2028,6 +2031,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: Mute
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
+      propertyPath: Loop
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
