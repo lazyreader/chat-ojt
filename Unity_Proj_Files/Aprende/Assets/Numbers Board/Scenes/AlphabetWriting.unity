@@ -265,6 +265,16 @@ PrefabInstance:
       propertyPath: m_SpriteTilingProperty.oldSize.y
       value: 1.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4461480789337198012, guid: 55533fb7b30ad6a408d73d6327db42ea,
+        type: 3}
+      propertyPath: message
+      value: LoadThePreviousLetterPage
+      objectReference: {fileID: 0}
+    - target: {fileID: 2660031272399766684, guid: 55533fb7b30ad6a408d73d6327db42ea,
+        type: 3}
+      propertyPath: message
+      value: LoadTheNextLetterPage
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55533fb7b30ad6a408d73d6327db42ea, type: 3}
 --- !u!95 &50301193 stripped
@@ -2551,7 +2561,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
-      value: LoadTheNextLetter
+      value: LoadTheNextLetterPage
       objectReference: {fileID: 0}
     - target: {fileID: 11400004, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
@@ -2559,7 +2569,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400006, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
-      value: LoadThePreviousLetter
+      value: LoadThePreviousLetterPage
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
