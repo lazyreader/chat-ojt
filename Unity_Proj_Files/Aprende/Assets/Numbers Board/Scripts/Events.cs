@@ -48,6 +48,8 @@ public class Events : MonoBehaviour
         writingHandler.LoadNextNumber();
     }
 
+
+
     //Load the previous/number
     public void LoadThePreviousNumber(object ob)
     {
@@ -57,6 +59,27 @@ public class Events : MonoBehaviour
         }
 
         writingHandler.LoadPreviousNumber();
+
+    }
+    public void LoadTheNextNumberPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadNextNumberPage();
+    }
+
+    //Load the previous/number
+    public void LoadThePreviousNumberPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadPreviousNumberPage();
 
     }
 
@@ -105,7 +128,25 @@ public class Events : MonoBehaviour
         writingHandler.LoadPreviousLetter();
 
     }
+    public void LoadTheNextLetterPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
 
+        writingHandler.LoadNextLetterPage();
+    }
+
+    public void LoadThePreviousLetterPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadPreviousLetterPage();
+    }
     //Load the current Letter
     public void LoadLetter(Object ob)
     {
