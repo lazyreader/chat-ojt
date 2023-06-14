@@ -302,7 +302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 8f60843e976054708a3832e9cd983b43, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8f60843e976054708a3832e9cd983b43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -893,7 +893,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!61 &981410218
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -933,6 +933,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sources: []
+  instructions: {fileID: 0}
   anEvent:
     m_PersistentCalls:
       m_Calls:
@@ -1239,7 +1240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100362, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11400384, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
       propertyPath: order.Array.size
