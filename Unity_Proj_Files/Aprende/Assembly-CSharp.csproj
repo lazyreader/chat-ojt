@@ -68,7 +68,9 @@
     <Compile Include="Assets\Numbers Board\Scripts\General.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\HierrachyManager.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\InputsHandler.cs" />
+    <Compile Include="Assets\Numbers Board\Scripts\LetterInstructionSelector.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\LineRendererAttributes.cs" />
+    <Compile Include="Assets\Numbers Board\Scripts\NumberInstructionSelector.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\PlatformChecker.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\Responsive.cs" />
     <Compile Include="Assets\Numbers Board\Scripts\SmoothCurve.cs" />
