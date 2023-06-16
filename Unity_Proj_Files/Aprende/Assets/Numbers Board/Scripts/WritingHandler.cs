@@ -12,6 +12,8 @@ public class WritingHandler : MonoBehaviour
     public SpriteRenderer winDialogLetterSprite;//letter sprite renderer
                                                 //public GameObject menu;
     public static int currentLetterIndex;//the index of the current letter
+    public int CLITemp;
+    
     private bool clickBeganOrMovedOutOfLetterArea;//does the click began or moved out of letter area
     private bool letterDone = false;
 
@@ -21,6 +23,7 @@ public class WritingHandler : MonoBehaviour
     public SpriteRenderer winDialogNumberSprite;//number sprite renderer
     public GameObject menu;
     public static int currentNumberIndex;//the index of the current number
+    public int CMITemp;
     private bool clickBeganOrMovedOutOfNumberArea;//does the click began or moved out of number area
     private int previousTracingPointIndex;//the index of the previous number
     private ArrayList currentTracingPoints;//holds the indexes of the tracing points
@@ -64,7 +67,6 @@ public class WritingHandler : MonoBehaviour
     //Executes Every Single Frame
     void Update()
     {
-
         digitHolder = Events.digit;
         //if (Events.digit == "num")
         if (eventSc.digit_type == "NUM")
@@ -584,6 +586,7 @@ public class WritingHandler : MonoBehaviour
         HideNumbers();
 
         numbers[currentNumberIndex].SetActive(true);
+        CMITemp = currentNumberIndex;
 
         setRandomColor = true;
     }
@@ -931,6 +934,7 @@ public class WritingHandler : MonoBehaviour
         HideLetters();
 
         letters[currentLetterIndex].SetActive(true);
+        CLITemp = currentLetterIndex;
 
         setRandomColor = true;
     }
