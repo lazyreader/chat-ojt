@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -73,7 +73,11 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 344}
   m_MaxSize: {x: 12006, y: 8044}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 56
+=======
   controlID: 29225
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +129,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 344}
   m_MaxSize: {x: 8006, y: 8044}
   vertical: 1
+<<<<<<< HEAD
+  controlID: 57
+=======
   controlID: 62
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +184,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 58
+=======
   controlID: 63
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -265,12 +277,12 @@ MonoBehaviour:
     height: 675
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 17}
   - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -328,7 +340,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
+      m_ExpandedIDs: 46fbffff
+=======
       m_ExpandedIDs: f8b9feff68f1feff06f8feffa4fafeffd804ffffda0dffff6410ffffe010ffff5211fffffa28ffff9a50ffff9c50ffff0451ffff3451ffff4052ffffd8f7ffff4ef8ffff74fbffff9e380000663900009c39000072f6010080f60100b6f601001aca0200d8930500e0930500
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -437,10 +453,17 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 103}
+    m_SelectedIDs: 30380000
+    m_LastClickedID: 14384
+    m_ExpandedIDs: 00000000342e0000c42e00003c30000000ca9a3b
+=======
     scrollPos: {x: 0, y: 243}
     m_SelectedIDs: d4960500
     m_LastClickedID: 366292
     m_ExpandedIDs: 00000000182e00009c2e0000f02f00000a300000f4310000b8350000d83600007437000000ca9a3b
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,7 +491,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000342e0000c42e00003c300000
+=======
     m_ExpandedIDs: 00000000182e00009c2e0000f02f0000f4310000b8350000d8360000
+>>>>>>> parent of e271e7f (apk ver, CH NG LL about2. all revisions complete)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
