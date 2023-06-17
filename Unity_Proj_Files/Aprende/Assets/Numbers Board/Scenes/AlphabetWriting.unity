@@ -364,7 +364,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 4fa42f91782b4e04da4072389706cda8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b39a05105c145a44692d14d2de0fc9a0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2035,7 +2035,7 @@ RectTransform:
   m_Children:
   - {fileID: 1572415410}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4977,7 +4977,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a5d61a7bda4622340904b9f6ba558008, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fdd565e415340144592e85433a457688, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5810,22 +5810,22 @@ PrefabInstance:
       propertyPath: cam
       value: 
       objectReference: {fileID: 1838895171}
+    - target: {fileID: 11400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
+      propertyPath: message
+      value: LoadTheNextLetterPage
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400006, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
+      propertyPath: message
+      value: LoadThePreviousLetterPage
+      objectReference: {fileID: 0}
     - target: {fileID: 853449768308786098, guid: 1eb386ac2713a4c3d94d1a3972952bb4,
         type: 3}
       propertyPath: anEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 13
       objectReference: {fileID: 0}
-    - target: {fileID: 11400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
-      propertyPath: message
-      value: LoadTheNextLetterPage
-      objectReference: {fileID: 0}
     - target: {fileID: 11400004, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
       value: EraseLetter
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400006, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
-      propertyPath: message
-      value: LoadThePreviousLetterPage
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
@@ -5971,7 +5971,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400016, guid: 9aafcb871be5154488c6ee9a0592ce2d, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400016, guid: 9aafcb871be5154488c6ee9a0592ce2d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -6168,7 +6168,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ae9cbfe0bccd58b43bab8ac53fd1fd83, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b4de6e3633b7c2145b43bd349174d5cf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
