@@ -938,6 +938,7 @@ public class WritingHandler : MonoBehaviour
         HideLetters();
 
         letters[currentLetterIndex].SetActive(true);
+        CLITemp = currentLetterIndex;
 
         setRandomColor = true;
     }
