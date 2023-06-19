@@ -11,7 +11,7 @@ public class LetterInstructionSelector : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        LetterIndex = LettersObj.GetComponent<WritingHandler>().CLITemp;
+        LetterIndex = LettersObj.GetComponent<WritingHandler>().LetterIndexTemp;
         foreach (GameObject tl in traceLetters)
         {
             if (tl != null)

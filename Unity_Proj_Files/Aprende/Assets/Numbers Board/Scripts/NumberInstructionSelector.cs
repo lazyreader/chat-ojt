@@ -11,7 +11,7 @@ public class NumberInstructionSelector : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        NumberIndex = NumbersObj.GetComponent<WritingHandler>().CMITemp;
+        NumberIndex = NumbersObj.GetComponent<WritingHandler>().NumberIndexTemp;
         foreach (GameObject tm in traceNumbers)
         {
             if (tm != null)

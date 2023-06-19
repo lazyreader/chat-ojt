@@ -44,8 +44,8 @@ public class WritingHandler : MonoBehaviour
     public GameObject mcam;
     private Events eventSc;
 
-    public int CLITemp;
-    public int CMITemp;
+    public int LetterIndexTemp;
+    public int NumberIndexTemp;
 
     IEnumerator Start()
     {
@@ -69,8 +69,6 @@ public class WritingHandler : MonoBehaviour
     //Executes Every Single Frame
     void Update()
     {
-        CLITemp = currentLetterIndex;
-        CMITemp = currentNumberIndex;
         digitHolder = Events.digit;
         //if (Events.digit == "num")
         if (eventSc.digit_type == "NUM")
@@ -590,7 +588,7 @@ public class WritingHandler : MonoBehaviour
         HideNumbers();
 
         numbers[currentNumberIndex].SetActive(true);
-        CMITemp = currentNumberIndex;
+        NumberIndexTemp = currentNumberIndex;
 
         setRandomColor = true;
     }
@@ -938,7 +936,7 @@ public class WritingHandler : MonoBehaviour
         HideLetters();
 
         letters[currentLetterIndex].SetActive(true);
-        CLITemp = currentLetterIndex;
+        LetterIndexTemp = currentLetterIndex;
 
         setRandomColor = true;
     }
