@@ -222,6 +222,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -5150214227125282969, guid: 3c7ff0165b3e0ef478e110f36cd793d5,
         type: 3}
+    - target: {fileID: 11400004, guid: 55533fb7b30ad6a408d73d6327db42ea, type: 3}
+      propertyPath: message
+      value: LoadThePreviousLetterPage
+      objectReference: {fileID: 0}
     - target: {fileID: 11400006, guid: 55533fb7b30ad6a408d73d6327db42ea, type: 3}
       propertyPath: hoverIcon
       value: 
@@ -232,6 +236,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -5150214227125282969, guid: 3c7ff0165b3e0ef478e110f36cd793d5,
         type: 3}
+    - target: {fileID: 11400006, guid: 55533fb7b30ad6a408d73d6327db42ea, type: 3}
+      propertyPath: message
+      value: LoadTheNextLetterPage
+      objectReference: {fileID: 0}
     - target: {fileID: 6100002, guid: 55533fb7b30ad6a408d73d6327db42ea, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 1.5
@@ -8691,7 +8699,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
-      value: LoadTheNextLetter
+      value: LoadTheNextLetterPage
       objectReference: {fileID: 0}
     - target: {fileID: 11400004, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
@@ -8699,7 +8707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400006, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: message
-      value: LoadThePreviousLetter
+      value: LoadThePreviousLetterPage
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
