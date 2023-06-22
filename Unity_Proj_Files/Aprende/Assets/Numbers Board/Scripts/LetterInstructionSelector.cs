@@ -6,17 +6,28 @@ public class LetterInstructionSelector : MonoBehaviour
 {
     public GameObject[] traceLetters;//the letters list from A-Z
     public GameObject LettersObj;
-    public int LetterIndex = 0;
+    public int LetterIndex;
 
     // Start is called before the first frame update
     private void Start()
     {
-        LetterIndex = LettersObj.GetComponent<WritingHandler>().CLITemp;
-        foreach (GameObject tl in traceLetters)
+        for (int i = 0; i < LettersObj.GetComponent<WritingHandler>().letters.Length; i++)
         {
-            if (tl != null)
-                tl.SetActive(false);
+            if (LettersObj.GetComponent<WritingHandler>().letters[i].activeSelf == true)
+            {
+                LetterIndex = i;
+                break;
+            }
         }
+
+        for (int i = 0; i < LettersObj.GetComponent<WritingHandler>().letters.Length; i++)
+        {
+            if (i != LetterIndex)
+            {
+                Destroy(traceLetters[i]);
+            }
+        }
+        
     }
 
     // Update is called once per frame
