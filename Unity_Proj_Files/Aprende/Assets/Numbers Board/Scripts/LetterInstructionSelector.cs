@@ -20,13 +20,14 @@ public class LetterInstructionSelector : MonoBehaviour
             }
         }
 
-        foreach (GameObject tli in traceLetters)
+        for (int i = 0; i < LettersObj.GetComponent<WritingHandler>().letters.Length; i++)
         {
-            if (tli != null)
+            if (i != LetterIndex)
             {
-                tli.SetActive(false);
+                Destroy(traceLetters[i]);
             }
         }
+        
     }
 
     // Update is called once per frame
