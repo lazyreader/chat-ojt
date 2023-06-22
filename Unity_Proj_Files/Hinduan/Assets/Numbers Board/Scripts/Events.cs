@@ -60,6 +60,28 @@ public class Events : MonoBehaviour
 
     }
 
+    public void LoadTheNextNumberPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadNextNumberPage();
+    }
+
+    //Load the previous/number
+    public void LoadThePreviousNumberPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadPreviousNumberPage();
+
+    }
+
     //Load the current Number
     public void LoadNumber(Object ob)
     {
@@ -104,6 +126,26 @@ public class Events : MonoBehaviour
 
         writingHandler.LoadPreviousLetter();
 
+    }
+
+    public void LoadTheNextLetterPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadNextLetterPage();
+    }
+
+    public void LoadThePreviousLetterPage(object ob)
+    {
+        if (writingHandler == null)
+        {
+            return;
+        }
+
+        writingHandler.LoadPreviousLetterPage();
     }
 
     //Load the current Letter

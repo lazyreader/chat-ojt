@@ -21,13 +21,13 @@ public class StreamVideo : MonoBehaviour {
 
     public VideoClip videoToPlay;
 
-    private VideoPlayer videoPlayer;
+    public VideoPlayer videoPlayer;
     private VideoSource videoSource;
 
     private AudioSource audioSource;
 
     private bool isPaused = false;
-    private bool firstRun = true;
+    public bool firstRun = true;
 
     IEnumerator playVideo() {
         playIcon.SetActive(false);

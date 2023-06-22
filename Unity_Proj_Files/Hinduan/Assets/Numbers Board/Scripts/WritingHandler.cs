@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class WritingHandler : MonoBehaviour
 {
@@ -41,6 +42,9 @@ public class WritingHandler : MonoBehaviour
     public GameObject mcam;
     private Events eventSc;
 
+    public int CLITemp;
+    public int CMITemp;
+
     IEnumerator Start()
     {
         Debug.Log("Start Method: Writing Handler");
@@ -63,6 +67,8 @@ public class WritingHandler : MonoBehaviour
     //Executes Every Single Frame
     void Update()
     {
+        CLITemp = currentLetterIndex;
+        CMITemp = currentNumberIndex;
 
         digitHolder = Events.digit;
         //if (Events.digit == "num")
@@ -539,6 +545,29 @@ public class WritingHandler : MonoBehaviour
 
     }
 
+    public void LoadNextNumberPage()
+    {
+
+        if (currentNumberIndex == numbers.Length - 1)
+        {
+            currentNumberIndex = 0;
+            SceneManager.LoadScene(3);
+        }
+        else if (currentNumberIndex >= 0 && currentNumberIndex < numbers.Length - 1)
+        {
+            SceneManager.LoadScene(3 + currentNumberIndex + 1);
+        }
+    }
+
+    public void LoadPreviousNumberPage()
+    {
+        if (currentNumberIndex > 0 && currentNumberIndex < numbers.Length)
+        {
+            SceneManager.LoadScene(3 + currentNumberIndex - 1);
+        }
+
+    }
+
     //Load the current number
     private void LoadNumber()
     {
@@ -860,6 +889,28 @@ public class WritingHandler : MonoBehaviour
             winDialog.SetBool("isFadingIn", false);
             currentLetterIndex--;
             LoadLetter();
+        }
+
+    }
+
+    public void LoadNextLetterPage()
+    {
+        if (currentLetterIndex == letters.Length - 1)
+        {
+            currentLetterIndex = 0;
+            SceneManager.LoadScene(14);
+        }
+        else if (currentLetterIndex >= 0 && currentLetterIndex < letters.Length - 1)
+        {
+            SceneManager.LoadScene(14 + currentLetterIndex + 1);
+        }
+    }
+
+    public void LoadPreviousLetterPage()
+    {
+        if (currentLetterIndex > 0 && currentLetterIndex < letters.Length)
+        {
+            SceneManager.LoadScene(14 + currentLetterIndex - 1);
         }
 
     }
