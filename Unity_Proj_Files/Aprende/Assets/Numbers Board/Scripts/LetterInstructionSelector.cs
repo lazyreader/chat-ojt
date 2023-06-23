@@ -7,6 +7,7 @@ public class LetterInstructionSelector : MonoBehaviour
     public GameObject[] traceLetters;//the letters list from A-Z
     public GameObject LettersObj;
     public int LetterIndex;
+    public bool isOpen = false;
 
     // Start is called before the first frame update
     private void Start()
@@ -20,19 +21,33 @@ public class LetterInstructionSelector : MonoBehaviour
             }
         }
 
-        for (int i = 0; i < LettersObj.GetComponent<WritingHandler>().letters.Length; i++)
+        for (int i = 0; i < traceLetters.Length; i++)
         {
-            if (i != LetterIndex)
+            if (traceLetters != null)
             {
-                Destroy(traceLetters[i]);
+                traceLetters[i].SetActive(false);
             }
         }
         
     }
 
-    // Update is called once per frame
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Hand" && Input.GetMouseButtonDown(0) && !isOpen)
+        {
+            traceLetters[LetterIndex].SetActive(true);
+            isOpen = true;
+        }
+    }
+
+
     private void Update()
     {
-        traceLetters[LetterIndex].SetActive(true);
+        if (Input.GetMouseButtonDown(0) && isOpen)
+        {
+            traceLetters[LetterIndex].SetActive(false);
+            isOpen = false;
+        }
     }
+
 }
