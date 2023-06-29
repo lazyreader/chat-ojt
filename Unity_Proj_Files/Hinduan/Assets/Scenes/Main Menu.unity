@@ -2004,10 +2004,10 @@ PrefabInstance:
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: ba1fc036d354c844eae8e33b2900bb53, type: 3}
+      objectReference: {fileID: 8300000, guid: 7319b0975fd3e4c48b5ee58626efe8de, type: 3}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_Volume
-      value: 0.5
+      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: BypassListenerEffects
