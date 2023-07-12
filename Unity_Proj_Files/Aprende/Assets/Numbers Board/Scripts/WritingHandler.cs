@@ -67,6 +67,7 @@ public class WritingHandler : MonoBehaviour
     //Executes Every Single Frame
     void Update()
     {
+        CLITemp = currentLetterIndex;
         digitHolder = Events.digit;
         //if (Events.digit == "num")
         if (eventSc.digit_type == "NUM")
@@ -934,7 +935,6 @@ public class WritingHandler : MonoBehaviour
         HideLetters();
 
         letters[currentLetterIndex].SetActive(true);
-        CLITemp = currentLetterIndex;
 
         setRandomColor = true;
     }
