@@ -311,7 +311,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &72681952
 Transform:
   m_ObjectHideFlags: 0
@@ -320,8 +320,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 72681951}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.15}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+>>>>>>> Stashed changes
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 14
@@ -363,7 +368,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: e8d6f527bf2da644e803904640ecfd6c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -386,12 +391,12 @@ GameObject:
   - component: {fileID: 142559073}
   - component: {fileID: 142559074}
   m_Layer: 0
-  m_Name: TracInst S
+  m_Name: TracInst G
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &142559073
 Transform:
   m_ObjectHideFlags: 0
@@ -400,11 +405,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 142559072}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 21
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.07}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 7
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &142559074
 SpriteRenderer:
@@ -443,8 +456,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: c70dec08d3a8b2e468fb66615c4b8602, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 1a666f12f9b057e449d2c8465e775126, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -466,12 +479,12 @@ GameObject:
   - component: {fileID: 206947823}
   - component: {fileID: 206947824}
   m_Layer: 0
-  m_Name: TracInst C
+  m_Name: TracInst Z
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &206947823
 Transform:
   m_ObjectHideFlags: 0
@@ -480,11 +493,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206947822}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: -0.62}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 2
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.29}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 26
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &206947824
 SpriteRenderer:
@@ -523,8 +544,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 3d31b98435a6d4c4d8c2c8779f0ff1c4, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 0359c5c3dcf352444a5bf960688d5041, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -607,12 +628,12 @@ GameObject:
   - component: {fileID: 261891707}
   - component: {fileID: 261891708}
   m_Layer: 0
-  m_Name: TracInst G
+  m_Name: TracInst T
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &261891707
 Transform:
   m_ObjectHideFlags: 0
@@ -621,11 +642,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 261891706}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 7
+=======
+  m_LocalPosition: {x: 0.12500021, y: 0.1923075, z: 1.24}
+  m_LocalScale: {x: 0.7083333, y: 1.895769, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 21
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &261891708
 SpriteRenderer:
@@ -664,8 +693,88 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 1a666f12f9b057e449d2c8465e775126, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 6fd53bfa97a03714c8764c2636944ee5, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 19.2, y: 10.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &309214543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 309214544}
+  - component: {fileID: 309214545}
+  m_Layer: 0
+  m_Name: TracInst C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &309214544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309214543}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.12500021, y: 0.1923075, z: 0.02}
+  m_LocalScale: {x: 0.7083333, y: 1.8957691, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &309214545
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309214543}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 3d31b98435a6d4c4d8c2c8779f0ff1c4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -784,12 +893,12 @@ GameObject:
   - component: {fileID: 369780078}
   - component: {fileID: 369780079}
   m_Layer: 0
-  m_Name: TracInst T
+  m_Name: TracInst F
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &369780078
 Transform:
   m_ObjectHideFlags: 0
@@ -798,11 +907,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369780077}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 22
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.06}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 6
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &369780079
 SpriteRenderer:
@@ -841,8 +958,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 6fd53bfa97a03714c8764c2636944ee5, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 060582d825cfa26498e3f13dd2d8fb45, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -870,12 +987,12 @@ GameObject:
   - component: {fileID: 444325744}
   - component: {fileID: 444325745}
   m_Layer: 0
-  m_Name: TracInst D
+  m_Name: TracInst W
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &444325744
 Transform:
   m_ObjectHideFlags: 0
@@ -884,11 +1001,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 444325743}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 4
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.27}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 24
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &444325745
 SpriteRenderer:
@@ -927,8 +1052,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a5d61a7bda4622340904b9f6ba558008, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 446d6b8fcf02d8c4fac97c91ef738d73, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -950,12 +1075,12 @@ GameObject:
   - component: {fileID: 476657213}
   - component: {fileID: 476657214}
   m_Layer: 0
-  m_Name: TracInst J
+  m_Name: TracInst Q
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &476657213
 Transform:
   m_ObjectHideFlags: 0
@@ -964,11 +1089,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 476657212}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.895769, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 10
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.21}
+  m_LocalScale: {x: 0.70833325, y: 1.895769, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 18
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &476657214
 SpriteRenderer:
@@ -1007,8 +1140,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 5e769811aa131e5459203be7a648e478, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: cad7873a43938d4459398a2dad4daa75, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1030,12 +1163,12 @@ GameObject:
   - component: {fileID: 542715235}
   - component: {fileID: 542715236}
   m_Layer: 0
-  m_Name: TracInst Z
+  m_Name: TracInst A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &542715235
 Transform:
   m_ObjectHideFlags: 0
@@ -1045,7 +1178,11 @@ Transform:
   m_GameObject: {fileID: 542715234}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+=======
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+>>>>>>> Stashed changes
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 27
@@ -1087,8 +1224,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 0359c5c3dcf352444a5bf960688d5041, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: f378643f72963304badc96c2b6acd78d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1154,6 +1291,86 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &575325620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 575325621}
+  - component: {fileID: 575325622}
+  m_Layer: 0
+  m_Name: TracInst B
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &575325621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575325620}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.12500021, y: 0.1923075, z: 0.01}
+  m_LocalScale: {x: 0.7083333, y: 1.8957691, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &575325622
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575325620}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 3d31b98435a6d4c4d8c2c8779f0ff1c4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 19.2, y: 10.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1001 &696675834
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1206,12 +1423,12 @@ GameObject:
   - component: {fileID: 715825032}
   - component: {fileID: 715825033}
   m_Layer: 0
-  m_Name: TracInst N
+  m_Name: TracInst Ll
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &715825032
 Transform:
   m_ObjectHideFlags: 0
@@ -1220,11 +1437,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 715825031}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 15
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.14}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 13
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &715825033
 SpriteRenderer:
@@ -1263,8 +1488,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ae9cbfe0bccd58b43bab8ac53fd1fd83, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: b39a05105c145a44692d14d2de0fc9a0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1286,12 +1511,12 @@ GameObject:
   - component: {fileID: 745897235}
   - component: {fileID: 745897236}
   m_Layer: 0
-  m_Name: TracInst F
+  m_Name: TracInst U
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &745897235
 Transform:
   m_ObjectHideFlags: 0
@@ -1300,11 +1525,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 745897234}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 6
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.25}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 22
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &745897236
 SpriteRenderer:
@@ -1343,8 +1576,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 060582d825cfa26498e3f13dd2d8fb45, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 36d09e7f13f03d14682f38328a8d1970, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1378,12 +1611,12 @@ GameObject:
   - component: {fileID: 898579068}
   - component: {fileID: 898579069}
   m_Layer: 0
-  m_Name: TracInst L
+  m_Name: TracInst O
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &898579068
 Transform:
   m_ObjectHideFlags: 0
@@ -1392,11 +1625,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 898579067}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 12
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.19}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 16
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &898579069
 SpriteRenderer:
@@ -1435,6 +1676,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< Updated upstream
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 4fa42f91782b4e04da4072389706cda8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1517,6 +1759,10 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 0d9cd3d964264b54cbb6e5348d2b489c, type: 3}
+=======
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 896085e28d11d0842abf97e4dcaac368, type: 3}
+>>>>>>> Stashed changes
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1769,12 +2015,12 @@ GameObject:
   - component: {fileID: 963792834}
   - component: {fileID: 963792835}
   m_Layer: 0
-  m_Name: TracInst Ll
+  m_Name: TracInst N
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &963792834
 Transform:
   m_ObjectHideFlags: 0
@@ -1783,11 +2029,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963792833}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 13
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.16}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 15
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &963792835
 SpriteRenderer:
@@ -1826,8 +2080,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b39a05105c145a44692d14d2de0fc9a0, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: ae9cbfe0bccd58b43bab8ac53fd1fd83, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2056,7 +2310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   traceLetters:
   - {fileID: 542715234}
-  - {fileID: 916441052}
+  - {fileID: 0}
   - {fileID: 1658401447}
   - {fileID: 1663531300}
   - {fileID: 1366319003}
@@ -2081,8 +2335,13 @@ MonoBehaviour:
   - {fileID: 444325743}
   - {fileID: 1774012756}
   - {fileID: 206947822}
+<<<<<<< Updated upstream
   - {fileID: 1525098582}
   - {fileID: 1581878512}
+=======
+  - {fileID: 0}
+  - {fileID: 0}
+>>>>>>> Stashed changes
   LettersObj: {fileID: 18293275}
   LetterIndex: 0
 --- !u!1 &1101099252
@@ -2096,12 +2355,12 @@ GameObject:
   - component: {fileID: 1101099253}
   - component: {fileID: 1101099254}
   m_Layer: 0
-  m_Name: TracInst R
+  m_Name: TracInst H
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1101099253
 Transform:
   m_ObjectHideFlags: 0
@@ -2110,11 +2369,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1101099252}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 20
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.08}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 8
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1101099254
 SpriteRenderer:
@@ -2153,8 +2420,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b992f3c190b29ea478645cc0a9e7efc6, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: a0d6b613c0574f34e98eacbc641a2266, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2288,12 +2555,12 @@ GameObject:
   - component: {fileID: 1208734587}
   - component: {fileID: 1208734588}
   m_Layer: 0
-  m_Name: TracInst E
+  m_Name: TracInst V
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1208734587
 Transform:
   m_ObjectHideFlags: 0
@@ -2302,11 +2569,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1208734586}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 5
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.26}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 23
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1208734588
 SpriteRenderer:
@@ -2345,8 +2620,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 6845341252612414f97474e52768539f, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 9c3b539ceb7100148a578af1c1bee824, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2368,12 +2643,12 @@ GameObject:
   - component: {fileID: 1221439398}
   - component: {fileID: 1221439399}
   m_Layer: 0
-  m_Name: TracInst I
+  m_Name: TracInst R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1221439398
 Transform:
   m_ObjectHideFlags: 0
@@ -2382,11 +2657,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1221439397}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 9
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.22}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 19
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1221439399
 SpriteRenderer:
@@ -2425,8 +2708,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: cf203ebb3e7006e41aa518c5365e8f9b, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: b992f3c190b29ea478645cc0a9e7efc6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4104,12 +4387,12 @@ GameObject:
   - component: {fileID: 1366319005}
   - component: {fileID: 1366319004}
   m_Layer: 0
-  m_Name: TracInst U
+  m_Name: TracInst D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1366319004
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4147,8 +4430,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 36d09e7f13f03d14682f38328a8d1970, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: a5d61a7bda4622340904b9f6ba558008, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4167,11 +4450,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1366319003}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 23
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.04}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 4
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1372832477
 GameObject:
@@ -4281,12 +4572,12 @@ GameObject:
   - component: {fileID: 1477087034}
   - component: {fileID: 1477087035}
   m_Layer: 0
-  m_Name: TracInst Q
+  m_Name: TracInst I
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1477087034
 Transform:
   m_ObjectHideFlags: 0
@@ -4295,11 +4586,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1477087033}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 19
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.09}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 9
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1477087035
 SpriteRenderer:
@@ -4338,8 +4637,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: cad7873a43938d4459398a2dad4daa75, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: cf203ebb3e7006e41aa518c5365e8f9b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4447,6 +4746,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   index: 3
   single_touch: 0
+<<<<<<< Updated upstream
 --- !u!1 &1525098582
 GameObject:
   m_ObjectHideFlags: 0
@@ -4527,6 +4827,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1572415408
 GameObject:
   m_ObjectHideFlags: 0
@@ -4551,7 +4853,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1572415408}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -4581,7 +4883,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: a5a5236c4a1084caba3c3601cfddcd46, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4601,9 +4903,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1572415408}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.7, y: -3.61, z: 0}
+  m_LocalPosition: {x: -6.7, y: -3.61, z: -4.25}
   m_LocalScale: {x: 0.72, y: 0.26, z: 1}
   m_Children:
+<<<<<<< Updated upstream
   - {fileID: 1581878514}
   - {fileID: 1525098583}
   - {fileID: 206947823}
@@ -4632,6 +4935,35 @@ Transform:
   - {fileID: 1658401448}
   - {fileID: 916441053}
   - {fileID: 542715235}
+=======
+  - {fileID: 542715235}
+  - {fileID: 575325621}
+  - {fileID: 309214544}
+  - {fileID: 1663531301}
+  - {fileID: 1366319005}
+  - {fileID: 1658401448}
+  - {fileID: 369780078}
+  - {fileID: 142559073}
+  - {fileID: 1101099253}
+  - {fileID: 1477087034}
+  - {fileID: 1629411081}
+  - {fileID: 1923384384}
+  - {fileID: 1674510484}
+  - {fileID: 715825032}
+  - {fileID: 72681952}
+  - {fileID: 963792834}
+  - {fileID: 898579068}
+  - {fileID: 2024186096}
+  - {fileID: 476657213}
+  - {fileID: 1221439398}
+  - {fileID: 1793847860}
+  - {fileID: 261891707}
+  - {fileID: 745897235}
+  - {fileID: 1208734587}
+  - {fileID: 444325744}
+  - {fileID: 1774012757}
+  - {fileID: 206947823}
+>>>>>>> Stashed changes
   m_Father: {fileID: 981410224}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4726,12 +5058,12 @@ GameObject:
   - component: {fileID: 1629411081}
   - component: {fileID: 1629411082}
   m_Layer: 0
-  m_Name: TracInst P
+  m_Name: TracInst J
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1629411081
 Transform:
   m_ObjectHideFlags: 0
@@ -4740,11 +5072,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1629411080}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 18
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.11}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 10
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1629411082
 SpriteRenderer:
@@ -4783,8 +5123,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 9c8f248e07654ff4f990c82a9a2f6733, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 5e769811aa131e5459203be7a648e478, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4812,12 +5152,12 @@ GameObject:
   - component: {fileID: 1658401448}
   - component: {fileID: 1658401449}
   m_Layer: 0
-  m_Name: TracInst W
+  m_Name: TracInst E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1658401448
 Transform:
   m_ObjectHideFlags: 0
@@ -4826,11 +5166,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1658401447}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 25
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.05}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 5
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1658401449
 SpriteRenderer:
@@ -4869,8 +5217,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 446d6b8fcf02d8c4fac97c91ef738d73, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 6845341252612414f97474e52768539f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4892,12 +5240,12 @@ GameObject:
   - component: {fileID: 1663531301}
   - component: {fileID: 1663531302}
   m_Layer: 0
-  m_Name: TracInst V
+  m_Name: TracInst Ch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1663531301
 Transform:
   m_ObjectHideFlags: 0
@@ -4906,11 +5254,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1663531300}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 24
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.03}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 3
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1663531302
 SpriteRenderer:
@@ -4949,8 +5305,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 9c3b539ceb7100148a578af1c1bee824, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: fdd565e415340144592e85433a457688, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5008,12 +5364,12 @@ GameObject:
   - component: {fileID: 1674510484}
   - component: {fileID: 1674510485}
   m_Layer: 0
-  m_Name: TracInst Ng
+  m_Name: TracInst L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1674510484
 Transform:
   m_ObjectHideFlags: 0
@@ -5022,11 +5378,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1674510483}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 16
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.13}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 12
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1674510485
 SpriteRenderer:
@@ -5065,8 +5429,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b4de6e3633b7c2145b43bd349174d5cf, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 4fa42f91782b4e04da4072389706cda8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5377,12 +5741,12 @@ GameObject:
   - component: {fileID: 1774012757}
   - component: {fileID: 1774012758}
   m_Layer: 0
-  m_Name: TracInst CH
+  m_Name: TracInst Y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1774012757
 Transform:
   m_ObjectHideFlags: 0
@@ -5391,11 +5755,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1774012756}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: -1.56}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 3
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.28}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 25
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1774012758
 SpriteRenderer:
@@ -5434,8 +5806,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: fdd565e415340144592e85433a457688, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 0d9cd3d964264b54cbb6e5348d2b489c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5457,12 +5829,12 @@ GameObject:
   - component: {fileID: 1793847860}
   - component: {fileID: 1793847861}
   m_Layer: 0
-  m_Name: TracInst H
+  m_Name: TracInst S
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1793847860
 Transform:
   m_ObjectHideFlags: 0
@@ -5471,11 +5843,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1793847859}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 8
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 1.23}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 20
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1793847861
 SpriteRenderer:
@@ -5514,8 +5894,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a0d6b613c0574f34e98eacbc641a2266, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: c70dec08d3a8b2e468fb66615c4b8602, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5671,12 +6051,12 @@ GameObject:
   - component: {fileID: 1923384384}
   - component: {fileID: 1923384385}
   m_Layer: 0
-  m_Name: TracInst O
+  m_Name: TracInst K
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1923384384
 Transform:
   m_ObjectHideFlags: 0
@@ -5685,11 +6065,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1923384383}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 17
+=======
+  m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0.12}
+  m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1.035958}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 11
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1923384385
 SpriteRenderer:
@@ -5728,8 +6116,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 896085e28d11d0842abf97e4dcaac368, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 00116b57d92783440819065fabffa5b1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5757,7 +6145,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.82
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1eb386ac2713a4c3d94d1a3972952bb4, type: 3}
       propertyPath: m_LocalRotation.x
@@ -6083,12 +6471,12 @@ GameObject:
   - component: {fileID: 2024186096}
   - component: {fileID: 2024186097}
   m_Layer: 0
-  m_Name: TracInst K
+  m_Name: TracInst P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2024186096
 Transform:
   m_ObjectHideFlags: 0
@@ -6097,11 +6485,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2024186095}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.1250002, y: 0.1923075, z: 0}
   m_LocalScale: {x: 0.70833325, y: 1.8957689, z: 1}
   m_Children: []
   m_Father: {fileID: 1572415410}
   m_RootOrder: 11
+=======
+  m_LocalPosition: {x: 0.12500021, y: 0.1923075, z: 1.2}
+  m_LocalScale: {x: 0.7083333, y: 1.895769, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1572415410}
+  m_RootOrder: 17
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2024186097
 SpriteRenderer:
@@ -6140,8 +6536,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 00116b57d92783440819065fabffa5b1, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 9c8f248e07654ff4f990c82a9a2f6733, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
