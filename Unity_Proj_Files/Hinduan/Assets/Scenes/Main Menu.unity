@@ -1345,7 +1345,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 0c3e40bbdcb4f5745b79c1dea547c926,
+      objectReference: {fileID: 21300000, guid: e1f97a641fc9ac94a9778e0ee0596195,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 78c6a5af1af06bd4982c855e6bf73fa9, type: 3}
@@ -2004,7 +2004,7 @@ PrefabInstance:
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 7319b0975fd3e4c48b5ee58626efe8de, type: 3}
+      objectReference: {fileID: 8300000, guid: 67dedbd5455796349b9f7a0713854bde, type: 3}
     - target: {fileID: 8233414, guid: 5f8178a58d97f7b428f4aebd94804b43, type: 3}
       propertyPath: m_Volume
       value: 0.02

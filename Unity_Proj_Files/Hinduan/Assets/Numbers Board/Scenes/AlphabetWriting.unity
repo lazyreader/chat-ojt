@@ -1198,6 +1198,10 @@ PrefabInstance:
       propertyPath: hand
       value: 
       objectReference: {fileID: 703312977}
+    - target: {fileID: 11400290, guid: 3cb9990ab6c2d0c469e7d977af04aaaf, type: 3}
+      propertyPath: cheeringSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 34dbae004a416474f8dd621decfc93ad, type: 3}
     - target: {fileID: 6202073768139634208, guid: 3cb9990ab6c2d0c469e7d977af04aaaf,
         type: 3}
       propertyPath: m_IsActive
