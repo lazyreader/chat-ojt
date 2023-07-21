@@ -575,6 +575,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300002, guid: 9c2b5ddfa27e2e44199db4dc757cf666,
         type: 3}
+    - target: {fileID: 11400106, guid: 36267c64200e9ad4c844cf83db01cdb8, type: 3}
+      propertyPath: cheeringSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 34dbae004a416474f8dd621decfc93ad, type: 3}
     - target: {fileID: 6289313791367806664, guid: 36267c64200e9ad4c844cf83db01cdb8,
         type: 3}
       propertyPath: m_Name
